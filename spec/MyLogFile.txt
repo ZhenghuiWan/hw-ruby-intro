@@ -1,0 +1,28 @@
+Name: Zhenghui Wan
+Uin: 427009807
+
+
+Log file begins
+----------------------------------------------------------------
+
+Part 1
+
+Finished in 0.00746 seconds (files took 0.09177 seconds to load)
+12 examples, 0 failures
+
+..........
+
+Part 2
+Finished in 0.00691 seconds (files took 0.09049 seconds to load)
+10 examples, 0 failures
+
+............
+
+Part 3
+
+Finished in 0.00668 seconds (files took 0.09506 seconds to load)
+12 examples, 0 failures
+
+----------------------------------------------------------------
+Happy Coding!
+Happy Chinese Lunar Year!
